@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Welcome to the Home Page</h1>
-    <p>Basit bir metin</p>
+    <p>Deneme 1</p>
   </div>
 </template>
 
